@@ -1,0 +1,126 @@
+[
+    {
+        "name": "Aquarium Accessories",
+        "price": 100,
+        "description":"You can able to use",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/1.jpg"
+            }
+        ],
+        "category": "Aquarium Accessories",
+        "seller": "Wonder Aqua Garden",
+        "stock": 60,
+        "numOfReviews": 10,
+        "reviews": []
+    },
+    {
+        "name": "Aquarium Medicines",
+        "price": 60,
+        "description": "Best Medicine",
+        "ratings": 5,
+        "images": [],
+        "category": "Aquarium Medicines",
+        "seller": "Wonder Aqua Garden",
+        "stock": 51,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Aquascaping Tools",
+        "price": 61,
+        "description": "Helpful",
+        "ratings": 4,
+        "images": [],
+        "category": "Aquascaping Tools",
+        "seller": "Wonder Aqua Garden",
+        "stock":51,
+        "numOfReviews": 8,
+        "reviews": []
+    },
+    {
+        "name": "Fish Foods",
+        "price": 50,
+        "description": "Farm Feed",
+        "ratings": 5,
+        "images": [],
+        "category": "Fish Foods",
+        "seller": "Wonder Aqua Garden",
+        "stock": 61,
+        "numOfReviews": 60,
+        "reviews": []
+    },
+    {
+        "name": "Fish Tanks & Bowls",
+        "price": 60,
+        "description": "Needed",
+        "ratings": 3,
+        "images": [],
+        "category": "Fish Tanks & Bowls",
+        "seller": "Wonder Aqua Garden",
+        "stock": 50,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Live Fishes",
+        "price": 30,
+        "description": "Wonderful Collection of fishes",
+        "ratings": 5,
+        "images": [],
+        "category": "Live Fishes",
+        "seller": "Wonder Aqua Garden",
+        "stock": 109,
+        "numOfReviews": 8,
+        "reviews": []
+    },
+    {
+        "name": "Live Pets",
+        "price": 500,
+        "description": "Mind Relaxing",
+        "ratings": 5,
+        "images": [],
+        "category": "Live Pets",
+        "seller": "Wonder Aqua Garden",
+        "stock": 60,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Live Aqua Plants",
+        "price": 9,
+        "description": "Planted Aqua",
+        "ratings": 3.5,
+        "images": [],
+        "category": "Live Aqua Plants",
+        "seller": "Wonder Aqua Garden",
+        "stock": 50,
+        "numOfReviews": 43,
+        "reviews": []
+    },
+    {
+        "name": "Pet Foods",
+        "price": 60,
+        "description": "essential for pet lovers",
+        "ratings": 5,
+        "images": [],
+        "category": "Pet Foods",
+        "seller": "Wonder Aqua Garden",
+        "stock": 61,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Pet Needs",
+        "price": 100,
+        "description": "Keep your pet healthy",
+        "ratings": 5,
+        "images": [],
+        "category": "Pet Needs",
+        "seller": "Wonder Aqua Garden",
+        "stock": 43,
+        "numOfReviews": 9,
+        "reviews": []
+    }
+]
